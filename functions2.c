@@ -145,7 +145,6 @@ UNUSED(flags);
 UNUSED(width);
 UNUSED(precision);
 UNUSED(size);
-if (str == NULL)
 str = "(AHYY)" ; for (i = 0; str[i]; i++)
 {
 for (j = 0; in[j]; j++)
